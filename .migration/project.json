@@ -1,0 +1,15 @@
+{
+  "sites": {
+    "emaxwalkdemo": {
+      "previewOrg": "vvedagiri1",
+      "previewSite": "emaxwalkdemo",
+      "contentHostUrl": "author-p206704-e2156682.adobeaemcloud.com",
+      "aemSitePath": "/content/demo0207",
+      "aemAssetsFolderPath": "/content/dam/demo0207",
+      "aemSiteName": "demo0207",
+      "aemSiteTitle": "demo0207",
+      "libraryUrl": "https://main--sta-xwalk-boilerplate--aemysites.aem.page/tools/sidekick/library.json"
+    }
+  },
+  "type": "xwalk"
+}
